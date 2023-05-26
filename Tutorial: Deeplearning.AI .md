@@ -100,4 +100,14 @@ print(response)
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/4ade8b53-cf72-4368-9d54-7c46ae93b97b)
 
 
-## Model Limitations
+### Model Limitations
+
+- Hallucinations : The model can make up statements about things that do not exist
+- To avoid hallucination : Ask the model to find relevant information first, then based on that information the model should answer questions
+
+## Summarizing
+
+- Control character count by using following in the prompt
+  - `at most 30 words`
+  - `in 3 sentences`
+  - `using 250 characters`
