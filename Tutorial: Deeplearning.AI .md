@@ -116,32 +116,29 @@ print(response)
 
 ## Inferring
 
-- Sentiment Analysis
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/77b0f72a-b3f3-4772-893e-3a2ab01e2e93)
 
+- Sentiment Analysis
   - Determine the sentiment (positive, negative) for a piece of text
   - Identify different types of emotions from the piece of text
   - Identify topics being discussed in a piece of text
 
 ## Transforming
 
-- Language transformation
-
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/f7c5470b-70de-4acd-b710-43d7583e44ae)
-
-- Grammar Checking
-- Tone Adjustment (Professional <-> Casual)
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/4afe95cd-6830-4539-8596-26a3f5f61f14)
 
+- Language transformation
+- Grammar Checking
+- Tone Adjustment (Professional <-> Casual)
 - Format Conversion (HTML <-> JSON)
 
 ## Expanding
-- Generate longer text based on a shorter prompt
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/ded038e2-2afa-4df4-9c1e-f4d3141d61a0)
 
+- Generate longer text based on a shorter prompt
 
 ## Temperature
 - It is a real number between 0 and 1
 - 0 : Model will choose the most predictable word for completion
 - Higher the value of temperature, more the response will diverge from the most predictable response
-- 
