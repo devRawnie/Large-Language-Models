@@ -24,7 +24,7 @@
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/0fae570c-db51-40eb-8781-8b95900d4321)
 
 
-4. *Few Shot* Promptting : Provide the model some successful examples of a response, before asking the model to generate a prompt
+4. *Few Shot* Prompting : Provide the model some successful examples of a response, before asking the model to generate a prompt
 ![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/b4e7fb7d-ba08-499f-b84c-cdea62754efe)
 
 
