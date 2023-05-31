@@ -142,3 +142,10 @@ print(response)
 - It is a real number between 0 and 1
 - 0 : Model will choose the most predictable word for completion
 - Higher the value of temperature, more the response will diverge from the most predictable response
+
+## ChatBot
+
+In ChatGPT, we can send a series of messages with an extra parameter "role" to train the ChatGPT model as a Chat Bot to get Chat Completions
+
+![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/98538075-600a-455c-974b-c1b05b9899a2)
+![image](https://github.com/devRawnie/Large-Language-Models/assets/43227329/05359816-0cc2-488d-9b77-4dc845c609ea)
